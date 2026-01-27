@@ -1,4 +1,3 @@
-```
 # AI-Powered Campus Lost & Found
 
 ---
@@ -65,4 +64,3 @@ This removes the dependency on manual searching, WhatsApp groups, or human memor
 ```
 
 ---
-```
