@@ -35,31 +35,27 @@ This removes the dependency on manual searching, WhatsApp groups, or human memor
 ## 🔹 GitHub Repository Link
 
 🔗 *To be added after code finalization*  
-```
+
 
 [https://github.com/arnvptl/buildfest/](https://github.com/arnvptl/buildfest/)
-```
+
 
 ---
 
 ## 🔹 3-Minute Solution Explanation Video
 
 🎥 *To be uploaded*  
-```
 
 [https://youtu.be/](https://youtu.be/)
 
-```
 
 ---
 
 ## 🔹 MVP Link
 
 🚀 *Live MVP (Firebase Hosting)*  
-```
 
 [https://](https://)
 
-```
 
 ---
