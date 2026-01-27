@@ -1,0 +1,12 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Item images uploaded by authenticated users
+    match /items/{userId}/{allPaths=**} {
+      allow read: if request.auth.uid != null;
+      allow create, delete: if request.auth.uid == userId && 
+                              request.resource.size < 5 * 1024 * 1024 &&
+                              request.resource.contentType.matches('image/.*');
+    }
+  }
+}
