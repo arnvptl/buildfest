@@ -37,8 +37,7 @@ This removes the dependency on manual searching, WhatsApp groups, or human memor
 🔗 *To be added after code finalization*  
 ```
 
-[https://github.com/your-username/ai-campus-lost-and-found](https://github.com/your-username/ai-campus-lost-and-found)
-
+[https://github.com/arnvptl/buildfest/](https://github.com/arnvptl/buildfest/)
 ```
 
 ---
