@@ -44,9 +44,8 @@ This removes the dependency on manual searching, WhatsApp groups, or human memor
 
 ## 🔹 3-Minute Solution Explanation Video
 
-🎥 *To be uploaded*  
-
 [https://youtu.be/rXSpPv0EF5Q?feature=shared](https://youtu.be/rXSpPv0EF5Q?feature=shared)
+[https://youtu.be/Iw9ANEq2ffY](https://youtu.be/Iw9ANEq2ffY)
 
 
 ---
@@ -55,7 +54,7 @@ This removes the dependency on manual searching, WhatsApp groups, or human memor
 
 🚀 *Live MVP (Firebase Hosting)*  
 
-[https://github.com/arnvptl/buildfest/](https://github.com/arnvptl/buildfest/)
+[https://lostandfound6969.vercel.app/](https://lostandfound6969.vercel.app/)
 
 
 ---
